@@ -1,3 +1,3 @@
-#WebPack-Starter
+# WebPack-Starter
 
-###Esta es una plantilla para usar en aplicaciones que usen webpack
+### Esta es una plantilla para usar en aplicaciones que usen webpack
